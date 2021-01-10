@@ -1,0 +1,4 @@
+Nama	: M.Riyadh
+NIM	: 5181011054
+
+*Program ini saya buat mengikuti beberapa referensi yang ada diyoutube maupun google, disini saya mengalami kendala yaitu di laptop saya yang tidak support dengan intel virtual, maka itu saya mencoba menggunakan nox untuk menampilkan hasil run nya, dan saya juga mengalami beberapa error saat melakukan pembuatan aplikasi ini, saya coba API nya menggunakan Postman sudah bisa berjalan dengan baik, namun masih terkendala di android studio nya.
